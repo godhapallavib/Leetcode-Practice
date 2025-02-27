@@ -1,5 +1,5 @@
 
-class longestCommonSubsequence {
+class LongestCommonSubsequence {
 
     int[][] memo;
     String text1, text2;
